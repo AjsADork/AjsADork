@@ -14,21 +14,28 @@
   </a>
 </div>
 
-
-
-
-
-Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
+🌸 Hello! I'm Gracie 🌸
 She/Her
+<p align="center"> <img src="https://img.shields.io/badge/IT%20Bench%20Tech-Fixing%20Computers-0c88c1?style=flat&logo=tools&logoColor=white" /> <img src="https://img.shields.io/badge/Aspiring-Pen%20Tester-ff69b4?style=flat&logo=hackthebox&logoColor=white" /> </p>
+🎨 A Little About Me
+🌟 Passions:
+I enjoy code, ethical hacking/pen testing, cybersec, art, gaming, making games, and so much more!
 
-I'm interested in code, ethical hacking/pen testing, cybersec, art, gaming, making games, and much more!  
-I’m currently learning GML, C#, pen testing, and game making.  
-I’m looking to collaborate on anything I may be interested in (I am not a very good programmer tho XD).
+📚 Learning:
+Currently diving into GML, C#, Pen Testing, and Game Development.
 
-Fun fact: The name “ferret” is from the Latin word furittus which means “little thief” in Latin.
+🤝 Looking to Collaborate:
+Open to working on projects that spark my interest (but fair warning, I'm still learning 😅).
 
-How to reach me: ajdork47@gmail.com
+🐾 Fun Fact
+The word "ferret" comes from the Latin word furittus, which means "little thief" 🕵️‍♀️.
 
+📫 Get in Touch
+💌 Email: ajdork47@gmail.com
+
+<p align="center"> <img src="https://img.shields.io/badge/Animals-Love%20Foxes%20%26%20Ferrets-orange?style=flat&logo=leaflet&logoColor=white" /> <img src="https://img.shields.io/badge/Hobbies-Roller%20Skating%20%26%20Art-pink?style=flat&logo=artstation&logoColor=white" /> </p>
+💻 Tech & Interests
+<p align="center"> <img src="https://img.shields.io/badge/Code-Learning%20GML%20%7C%20C%23-blueviolet?style=flat&logo=gamemaker&logoColor=white" /> <img src="https://img.shields.io/badge/Hacking-Ethical%20%7C%20Pen%20Testing-green?style=flat&logo=hackthebox&logoColor=white" /> <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" /> </p>
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
