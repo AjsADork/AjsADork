@@ -1,7 +1,7 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true)](https://github.com/Ann-MarieDev)
-<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/bboonstra/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today">
+<img src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/Ann-MarieDev/interval:today&amp;style=for-the-badge&amp;label=Time%20coding%20today&amp;logo=clockify&amp;logoColor=white&amp;color=seagreen" alt="Time Coding Today">
 
 Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
 She/Her
