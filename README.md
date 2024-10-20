@@ -10,9 +10,10 @@
 
 <div align="center">
   <a href="https://github.com/bboonstra/doniowa-render">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=bboonstra&repo=doniowa-render&theme=dracula" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=bboonstra&repo=doniowa-render&theme=dracula" alt="GitHub Repo Card" />
   </a>
 </div>
+
 
 ## 🌸 Hello! I'm Gracie 🌸 
 ### She/Her  
