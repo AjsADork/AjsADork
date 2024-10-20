@@ -1,0 +1,35 @@
+name: Update README with Programming Hours
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows you to manually trigger it if needed
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Calculate Programming Hours
+      id: calculate
+      run: |
+        # Define variables
+        DAILY_HOURS=2  # How many hours you program daily (update this as needed)
+
+        # Read current hours from README.md (extract the number)
+        CURRENT_HOURS=$(grep -oP '\d+(?= hours)' README.md || echo "0")
+        NEW_HOURS=$((CURRENT_HOURS + DAILY_HOURS))
+
+        # Update the README with the new hours
+        sed -i "s/${CURRENT_HOURS} hours/${NEW_HOURS} hours/g" README.md
+
+    - name: Commit Changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update programming hours"
+        git push
