@@ -1,4 +1,4 @@
-![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=synthwave)
+![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)
 
 Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
 She/Her
