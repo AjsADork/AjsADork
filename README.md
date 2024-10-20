@@ -1,7 +1,7 @@
 <a href="https://github.com/Ann-MarieDev">
   <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
 </a><a href="https://github.com/Ann-MarieDev">
-  <img height="172" width="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
+  <img height="172" width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
 </a><a href="https://github.com/Ann-MarieDev/silverfoxstudios">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
 </a>
