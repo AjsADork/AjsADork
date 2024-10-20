@@ -15,8 +15,6 @@
 </div>
 
 # 🌸 Hello! I'm Gracie 🌸  
-</br>
-
 ### She/Her  
 
 <p align="center">
@@ -32,7 +30,7 @@
 I 💕 **coding**, **ethical hacking/pen testing**, **cybersecurity**, **art**, **gaming**, **making games**, and lots more! 🎮🎨  
 
 ### 📚 Learning:  
-Currently diving into **GML**, **C#**, **Pen Testing**, and **Game Development** 🖥️🎮.  
+Currently learning **GML**, **C#**, **Pen Testing**, and **Game Development** 🖥️🎮.  
 
 ### 🤝 Looking to Collaborate:  
 I'm open to working on fun projects that pique my interest 🌈!  
