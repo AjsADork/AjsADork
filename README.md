@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ann-MarieDev/silverfoxstudios">
+  <a href="https://github.com/bboonstra/doniowa-render">
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=bboonstra&repo=doniowa-render&theme=dracula" />
   </a>
 </div>
