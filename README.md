@@ -1,6 +1,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula)](https://github.com/Ann-MarieDev)
 
 Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
 She/Her
