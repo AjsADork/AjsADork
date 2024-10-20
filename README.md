@@ -1,4 +1,20 @@
-![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true)](https://github.com/Ann-MarieDev)
+![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true)](https://github.com/Ann-MarieDev)
+
+<a href="https://github.com/Ann-MarieDev">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
+</a>
+<a href="https://github.com/Ann-MarieDev">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
+</a>
+
+<a href="https://github.com/Ann-MarieDev/silverfoxstudios">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
+</a>
+
+
+
 
 Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
 She/Her
