@@ -16,16 +16,12 @@
 
 # 🌸 Hello! I'm Gracie 🌸  
 ### She/Her  
-
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Bench%20Tech-Fixing%20Computers-0c88c1?style=flat&logo=tools&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Aspiring-Pen%20Tester-ff69b4?style=flat&logo=hackthebox&logoColor=white" />
 </p>
 
----
-
 ## 🎨 A Little About Me  
-
 ### 🌟 Passions:  
 I 💕 **coding**, **ethical hacking/pen testing**, **cybersecurity**, **art**, **gaming**, **making games**, and lots more! 🎮🎨  
 
@@ -39,10 +35,7 @@ I'm open to working on fun projects that pique my interest 🌈!
 ---
 
 ## 🐾 Fun Fact  
-Did you know?  
 The word **"ferret"** comes from the Latin word *furittus*, meaning **"little thief"** 🕵️‍♀️✨.
-
----
 
 ## 📫 Get in Touch  
 💌 **Email**: [ajdork47@gmail.com](mailto:ajdork47@gmail.com)  
@@ -51,8 +44,6 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Animals-Love%20Foxes%20%26%20Ferrets-orange?style=flat&logo=leaflet&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Hobbies-Roller%20Skating%20%26%20Art-pink?style=flat&logo=artstation&logoColor=white" />
 </p>
-
----
 
 ## 💻 Tech & Interests  
 <p align="center">
