@@ -13,8 +13,10 @@
     <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
   </a>
 </div>
+
 # 🌸 Hello! I'm Gracie 🌸  
 </br>
+
 ### She/Her  
 
 <p align="center">
