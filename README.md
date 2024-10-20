@@ -1,5 +1,6 @@
 ![stats](https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula)](https://github.com/Ann-MarieDev/silverfoxstudios)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 Hello! My name is Gracie, I work in IT as a bench tech (fixing computers) and I aspire to be a pen tester!  
 She/Her
