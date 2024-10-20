@@ -14,7 +14,8 @@
   </a>
 </div>
 # 🌸 Hello! I'm Gracie 🌸  
-**She/Her**  
+</br>
+###She/Her  
 
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Bench%20Tech-Fixing%20Computers-0c88c1?style=flat&logo=tools&logoColor=white" /> 
