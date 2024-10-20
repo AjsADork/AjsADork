@@ -9,8 +9,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Ann-MarieDev/silverfoxstudios">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
+  <a href="https://github.com/bboonstra/doniowa-render">
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=bboonstra&repo=doniowa-render&theme=dracula" />
   </a>
 </div>
 
