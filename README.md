@@ -1,14 +1,19 @@
-<a href="https://github.com/Ann-MarieDev">
-  <img height="170" width="400"  src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
-</a>
+<div align="center">
+  <a href="https://github.com/Ann-MarieDev">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
+  </a>
+  
+  <a href="https://github.com/Ann-MarieDev">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&langs_count=8" />
+  </a>
+</div>
 
-<a href="https://github.com/Ann-MarieDev">
-  <img height="170" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&layout=compact&langs_count=8&card_width=320" />
-</a>
+<div align="center">
+  <a href="https://github.com/Ann-MarieDev/silverfoxstudios">
+    <img height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
+  </a>
+</div>
 
-<a href="https://github.com/Ann-MarieDev/silverfoxstudios">
-  <img height="170" width="400"  src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
-</a>
 
 
 
