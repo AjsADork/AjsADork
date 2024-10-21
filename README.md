@@ -58,7 +58,7 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" />
 </p>
 
-<div align="center">
+<div align="inline">
   
   <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
 
