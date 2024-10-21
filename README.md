@@ -58,14 +58,15 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" />
 </p>
 
-<div align="inline">
+<div align="center">
   
-  <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+  <img height="120" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ann-MarieDev&theme=dracula&hide_border=true&ring=ff69b4&fire=ff69b4)](https://git.io/streak-stats)
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ann-MarieDev&theme=dracula)](https://git.io/streak-stats)
- 
- <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
- </div>
+  <img height="120" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+  
+</div>
 
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
