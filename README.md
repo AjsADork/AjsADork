@@ -52,6 +52,8 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" />
 </p>
 
+<!--Test-->
+https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
