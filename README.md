@@ -56,6 +56,10 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Hacking-Ethical%20%7C%20Pen%20Testing-green?style=flat&logo=hackthebox&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" />
 </p>
+<div align="left">
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ann-MarieDev)](https://git.io/streak-stats)
+</div>
 
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
