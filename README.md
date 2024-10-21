@@ -1,4 +1,5 @@
 <div align="center">
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula)](https://github.com/Ann-MarieDev/github-profile-trophy)
   <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
   </a>
@@ -52,8 +53,6 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
   <img src="https://img.shields.io/badge/Gaming-Developer%20%26%20Player-black?style=flat&logo=steam&logoColor=white" />
 </p>
 
-<!--Test-->
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula)](https://github.com/Ann-MarieDev/github-profile-trophy)
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
