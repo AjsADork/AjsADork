@@ -59,8 +59,8 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
 
 <div align="center">
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ann-MarieDev)](https://git.io/streak-stats)
-</div>
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ann-MarieDev&theme=dracula)](https://git.io/streak-stats)
+ </div>
 
 <!---
 Ann-MarieDev/AJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
