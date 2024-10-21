@@ -60,9 +60,9 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
 
 <div align="center">
   
-  <img height="190" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+  <img height="170" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Ann-MarieDev&theme=dracula&hide_border=true&ring=ff69b4&fire=ff69b4&card_width=350&hide_longest_streak=true"/>
-  <img height="190" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+  <img height="170" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
   
 </div>
 
