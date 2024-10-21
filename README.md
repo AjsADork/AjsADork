@@ -1,3 +1,4 @@
+
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula&margin-w=5)](https://github.com/Ann-MarieDev/github-profile-trophy)
@@ -5,17 +6,17 @@
 
 <div align="center">
   <a>
-    <img height="120" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
   </a>
   
   <a>
-    <img height="120" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&langs_count=8" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ann-MarieDev&layout=compact&size_weight=0.5&count_weight=0.5&theme=dracula&exclude_repo=GRAVITY-FALLS-thisisnotawebsitedotcom-code-unminify-beautify&hide_progress=true&langs_count=8" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/Ann-MarieDev/silverfoxstudios">
-    <img height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=Ann-MarieDev&repo=silverfoxstudios&theme=dracula" />
   </a>
 </div>
 
@@ -36,14 +37,6 @@ Currently learning **GML**, **C#**, **Pen Testing**, and **Game Development** �
 ### 🤝 Looking to Collaborate:  
 I'm open to working on fun projects that pique my interest 🌈!  
 (But fair warning: I'm still learning, so expect some hiccups along the way 😅).  
-
-<div align="left">
-  <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
-</div>
-
-<div align="right">
-  <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
-</div>
 
 ---
 
@@ -67,7 +60,11 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
 
 <div align="center">
   
+  <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Ann-MarieDev&theme=dracula)](https://git.io/streak-stats)
+ 
+ <img height="150" src="https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif" />
  </div>
 
 <!---
