@@ -1,4 +1,5 @@
 <div align="center">
+
   [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula)](https://github.com/Ann-MarieDev/github-profile-trophy)
   <a>
     <img height="150" src="https://github-readme-stats.vercel.app/api?username=Ann-MarieDev&show_icons=true&theme=dracula" />
