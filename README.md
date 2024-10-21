@@ -63,7 +63,7 @@ The word **"ferret"** comes from the Latin word *furittus*, meaning **"little th
 
 <div align="right">
   
-  ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Ann-MarieDev)
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=9dawld2km0y0ny3mml9wk5fyk&count={count})
 </div>
 
 <!---
