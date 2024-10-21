@@ -1,6 +1,6 @@
 <div align="center">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula)](https://github.com/Ann-MarieDev/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula&margin-w=1)](https://github.com/Ann-MarieDev/github-profile-trophy)
 </div>
 
 <div align="center">
