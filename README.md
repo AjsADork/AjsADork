@@ -38,7 +38,7 @@ I'm open to working on fun projects that pique my interest 🌈!
 The word **"ferret"** comes from the Latin word *furittus*, meaning **"little thief"** 🕵️‍♀️✨.
 
 ## 📫 Get in Touch  
-💌 **Email**: [ajdork47@gmail.com](mailto:graciehutchins200@gmail.com)  
+💌 **Email**: [Click here to email me!](mailto:graciehutchins200@gmail.com)  
 
 <p align="center">
   <img src="https://img.shields.io/badge/Animals-Love%20Foxes%20%26%20Ferrets-orange?style=flat&logo=leaflet&logoColor=white" /> 
