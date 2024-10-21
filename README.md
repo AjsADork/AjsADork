@@ -1,5 +1,3 @@
-![GIF](https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif)
-
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=Ann-MarieDev&theme=dracula&margin-w=5)](https://github.com/Ann-MarieDev/github-profile-trophy)
@@ -38,6 +36,10 @@ Currently learning **GML**, **C#**, **Pen Testing**, and **Game Development** �
 ### 🤝 Looking to Collaborate:  
 I'm open to working on fun projects that pique my interest 🌈!  
 (But fair warning: I'm still learning, so expect some hiccups along the way 😅).  
+
+<p align="center">
+  ![GIF](https://i.pinimg.com/originals/05/59/94/05599424bb5a1b7819956d0288559697.gif)
+</p>
 
 ---
 
