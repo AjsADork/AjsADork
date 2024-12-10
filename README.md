@@ -21,7 +21,6 @@
 </div>
 
 # 🌸 Hello! I'm Gracie 🌸  
-### She/Her  
 <p align="center">
   <img src="https://img.shields.io/badge/IT%20Bench%20Tech-Fixing%20Computers-0c88c1?style=flat&logo=tools&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Aspiring-Pen%20Tester-ff69b4?style=flat&logo=hackthebox&logoColor=white" />
